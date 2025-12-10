@@ -32,6 +32,8 @@ FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并�
 - https://adrules.top/  
 - https://whatshub.top/
 
+当前合并规则总数：**0**
+
 ---
 
 <a id="zh-tw"></a>
@@ -56,6 +58,8 @@ FuckAD 致力打造一套 **去重、乾淨並具高相容性** 的多來源合�
 
 - https://adrules.top/  
 - https://whatshub.top/
+
+目前合併規則總數：**0**
 
 ---
 
@@ -82,6 +86,8 @@ Special thanks to the following sources for their rule contributions and ongoing
 - https://adrules.top/  
 - https://whatshub.top/
 
+Current merged rule count: **0**
+
 ---
 
 <a id="ja"></a>
@@ -107,6 +113,8 @@ FuckAD は、**重複を徹底的に排除し、整った形式で提供する�
 - https://adrules.top/  
 - https://whatshub.top/
 
+現在の結合ルール総数：**0**
+
 ---
 
 <a id="ko"></a>
@@ -131,6 +139,8 @@ FuckAD 는 **중복을 제거하고, 청결하며, 호환성이 높은 다중 �
 
 - https://adrules.top/  
 - https://whatshub.top/
+
+현재 통합 규칙 총 개수: **0**
 
 ---
 
