@@ -18,10 +18,10 @@
 | 代理工具 | 订阅链接 |
 |---------|----------|
 | 小火箭（Shadowrocket） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash（Meta / 原版） | （预留，未来更新） |
-| Quantumult X | （预留，未来更新） |
-| Surge | （预留，未来更新） |
-| Any Other Tool | （未来将扩展更多格式） |
+| Clash（Meta / 原版） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
+| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
+| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| Any Other Tool | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 简介
 FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并去广告规则集**，持续保持精简与统一格式。
@@ -32,7 +32,7 @@ FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并�
 - https://adrules.top/  
 - https://whatshub.top/
 
-当前合并规则总数：**226090**
+当前合并规则总数：**0**
 
 ---
 
@@ -45,10 +45,10 @@ FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并�
 | 代理工具 | 訂閱連結 |
 |---------|----------|
 | 小火箭（Shadowrocket） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash（Meta / 原版） | （保留未來更新） |
-| Quantumult X | （保留未來更新） |
-| Surge | （保留未來更新） |
-| 更多工具 | （將在後續逐步支援） |
+| Clash（Meta / 原版） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
+| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
+| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| 更多工具 | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 簡介
 FuckAD 致力打造一套 **去重、乾淨並具高相容性** 的多來源合併去廣告規則集，保持精簡與統一格式。
@@ -59,7 +59,7 @@ FuckAD 致力打造一套 **去重、乾淨並具高相容性** 的多來源合�
 - https://adrules.top/  
 - https://whatshub.top/
 
-目前合併規則總數：**226090**
+目前合併規則總數：**0**
 
 ---
 
@@ -72,10 +72,10 @@ Lightweight multi-source merged ad-blocking rule set.
 | Proxy Tool | Subscription Link |
 |------------|-------------------|
 | Shadowrocket | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash / Clash Meta | (Reserved for future formats) |
-| Quantumult X | (Reserved for future formats) |
-| Surge | (Reserved for future formats) |
-| Others | Will be supported later |
+| Clash / Clash Meta | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
+| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
+| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| Others | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### Introduction
 FuckAD aims to provide a **deduplicated, clean, and unified multi-source merged ad-blocking rule set** for long-term maintainability and wide compatibility.
@@ -86,7 +86,7 @@ Special thanks to the following sources for their rule contributions and ongoing
 - https://adrules.top/  
 - https://whatshub.top/
 
-Current merged rule count: **226090**
+Current merged rule count: **0**
 
 ---
 
@@ -99,10 +99,10 @@ Current merged rule count: **226090**
 | プロキシツール | サブスクリプション URL |
 |----------------|---------------------------|
 | Shadowrocket | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash / Clash Meta | （将来対応） |
-| Quantumult X | （将来対応） |
-| Surge | （将来対応） |
-| その他 | 順次追加予定 |
+| Clash / Clash Meta | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
+| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
+| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| その他 | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 概要
 FuckAD は、**重複を徹底的に排除し、整った形式で提供する多元統合広告ブロックルール集**を目指しています。
@@ -113,7 +113,7 @@ FuckAD は、**重複を徹底的に排除し、整った形式で提供する�
 - https://adrules.top/  
 - https://whatshub.top/
 
-現在の結合ルール総数：**226090**
+現在の結合ルール総数：**0**
 
 ---
 
@@ -126,10 +126,10 @@ FuckAD は、**重複を徹底的に排除し、整った形式で提供する�
 | 프록시 도구 | 구독 URL |
 |-------------|-----------|
 | Shadowrocket | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash / Clash Meta | (추가 예정) |
-| Quantumult X | (추가 예정) |
-| Surge | (추가 예정) |
-| 기타 도구 | 향후 확장 예정 |
+| Clash / Clash Meta | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
+| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
+| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| 기타 도구 | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 소개
 FuckAD 는 **중복을 제거하고, 청결하며, 호환성이 높은 다중 소스 광고 차단 규칙 세트**를 목표로 지속적으로 유지·정비됩니다。
@@ -140,7 +140,7 @@ FuckAD 는 **중복을 제거하고, 청결하며, 호환성이 높은 다중 �
 - https://adrules.top/  
 - https://whatshub.top/
 
-현재 통합 규칙 총 개수: **226090**
+현재 통합 규칙 총 개수: **0**
 
 ---
 
