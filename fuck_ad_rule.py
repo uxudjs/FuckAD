@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# 功能說明: 從網絡自動爬取多個廣告規則文件, 去除註釋並合併去重排序後輸出多種格式的規則文件並更新 README 規則總數
-
 import sys
 import os
 import urllib.request
@@ -8,15 +6,12 @@ import urllib.error
 from datetime import datetime, timezone
 from typing import List, Set
 
-
-# 功能說明: 規則來源配置
 RULE_URLS = [
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
     "https://whatshub.top/rule/ADLite.list",
     "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
 ]
 
-# 功能說明: 生成的多格式輸出文件列表
 OUTPUT_FILES = [
     "fuck_ad_sr.conf",
     "fuck_ad_qx.conf",
@@ -24,14 +19,10 @@ OUTPUT_FILES = [
     "fuck_ad_clash.list",
 ]
 
-# 功能說明: README 文件路徑
 README_PATH = "README.md"
 
-# 功能說明: HTTP 請求超時秒數
 HTTP_TIMEOUT_SECONDS = 60
 
-
-# 功能說明: 從指定 URL 下載文本內容並按行返回
 def fetch_lines_from_url(url: str) -> List[str]:
     if not isinstance(url, str) or not url:
         raise ValueError("URL must be a non-empty string")
@@ -73,8 +64,6 @@ def fetch_lines_from_url(url: str) -> List[str]:
     lines = text.splitlines()
     return lines
 
-
-# 功能說明: 判斷一行是否為註釋行或空行
 def is_comment_or_empty(line: str) -> bool:
     if line is None:
         return True
@@ -88,16 +77,12 @@ def is_comment_or_empty(line: str) -> bool:
         return True
     return False
 
-
-# 功能說明: 規範化單行規則內容
 def normalize_rule_line(line: str) -> str:
     if line is None:
         return ""
     rule = line.strip()
     return rule
 
-
-# 功能說明: 合併多個規則列表並去除註釋與重複, 然後排序
 def merge_and_deduplicate_rules(multi_source_lines: List[List[str]]) -> List[str]:
     if not isinstance(multi_source_lines, list) or not multi_source_lines:
         raise ValueError("Input rule list must be a non-empty list of line lists")
@@ -124,8 +109,6 @@ def merge_and_deduplicate_rules(multi_source_lines: List[List[str]]) -> List[str
     rules.sort()
     return rules
 
-
-# 功能說明: 將規則按格式寫入輸出文件並添加頭部信息
 def write_rules_to_file(rules: List[str], output_path: str) -> None:
     if not isinstance(output_path, str) or not output_path:
         raise ValueError("Output path must be a non-empty string")
@@ -151,8 +134,6 @@ def write_rules_to_file(rules: List[str], output_path: str) -> None:
     except OSError as e:
         raise RuntimeError(f"Failed to write output file '{output_path}': {e}") from e
 
-
-# 功能說明: 更新 README 中各語言段落的規則總數
 def update_readme_rule_count(readme_path: str, total_rules: int) -> None:
     if not isinstance(readme_path, str) or not readme_path:
         raise ValueError("Readme path must be a non-empty string")
@@ -193,8 +174,6 @@ def update_readme_rule_count(readme_path: str, total_rules: int) -> None:
     except OSError:
         return
 
-
-# 功能說明: 主函數, 自動爬取並生成多格式規則文件並嘗試更新 README 規則總數
 def main() -> None:
     all_source_lines: List[List[str]] = []
 
