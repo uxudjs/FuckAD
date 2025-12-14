@@ -12,7 +12,7 @@ from typing import List, Set
 # 功能說明: 規則來源配置
 RULE_URLS = [
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list",
-    "https://whatshub.top/rule/AntiAD.list",
+    "https://whatshub.top/rule/ADLite.list",
     "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
 ]
 
