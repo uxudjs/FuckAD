@@ -12,9 +12,6 @@
 <a id="zh-cn"></a>
 ## 🇨🇳 简体中文
 
-### 简介
-FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并去广告规则集**，持续保持精简与统一格式。
-
 ### 订阅链接（不同代理工具）
 | 代理工具 | 订阅链接 |
 |---------|----------|
@@ -33,9 +30,6 @@ FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并�
 
 <a id="zh-tw"></a>
 ## 🇹🇼 繁體中文
-
-### 簡介
-FuckAD 致力打造一套 **去重、乾淨並具高相容性的多來源合併去廣告規則集**，保持精簡與統一格式。
 
 ### 訂閱連結（不同代理工具）
 | 代理工具 | 訂閱連結 |
@@ -56,9 +50,6 @@ FuckAD 致力打造一套 **去重、乾淨並具高相容性的多來源合併�
 <a id="en"></a>
 ## 🇺🇸 English
 
-### Introduction
-FuckAD aims to provide a **deduplicated, clean, and unified multi-source merged ad-blocking rule set** for long-term maintainability and wide compatibility.
-
 ### Subscription Links (Proxy Tools)
 | Proxy Tool | Subscription Link |
 |------------|-------------------|
@@ -78,9 +69,6 @@ Current merged rule count: **152000**
 <a id="ja"></a>
 ## 🇯🇵 日本語
 
-### 概要
-FuckAD は、**重複を徹底的に排除し、整った形式で提供する多元統合広告ブロックルール集**を目指しています。
-
 ### サブスクリプションリンク（プロキシツール）
 | プロキシツール | サブスクリプション URL |
 |----------------|---------------------------|
@@ -99,9 +87,6 @@ FuckAD は、**重複を徹底的に排除し、整った形式で提供する�
 
 <a id="ko"></a>
 ## 🇰🇷 한국어
-
-### 소개
-FuckAD 는 **중복을 제거하고, 청결하며, 호환성이 높은 다중 소스 광고 차단 규칙 세트**를 목표로 지속적으로 유지·정비됩니다。
 
 ### 구독 링크 (프록시 도구)
 | 프록시 도구 | 구독 URL |
