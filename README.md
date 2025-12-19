@@ -18,10 +18,7 @@ FuckAD 致力于构建一个 **去重、干净、且高兼容性的多源合并�
 ### 订阅链接（不同代理工具）
 | 代理工具 | 订阅链接 |
 |---------|----------|
-| 小火箭（Shadowrocket） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash（Meta / 原版） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
-| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
-| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| 小火箭（Shadowrocket） & Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 鸣谢
 特别感谢以下规则来源的贡献与长期维护：
@@ -43,10 +40,7 @@ FuckAD 致力打造一套 **去重、乾淨並具高相容性的多來源合併�
 ### 訂閱連結（不同代理工具）
 | 代理工具 | 訂閱連結 |
 |---------|----------|
-| 小火箭（Shadowrocket） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash（Meta / 原版） | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
-| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
-| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| 小火箭（Shadowrocket） & Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 鳴謝
 特別感謝以下規則來源的支持與長期維護：
@@ -68,10 +62,7 @@ FuckAD aims to provide a **deduplicated, clean, and unified multi-source merged 
 ### Subscription Links (Proxy Tools)
 | Proxy Tool | Subscription Link |
 |------------|-------------------|
-| Shadowrocket | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash / Clash Meta | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
-| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
-| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| Shadowrocket & Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### Acknowledgements
 Special thanks to the following sources for their rule contributions and ongoing maintenance:
@@ -93,10 +84,7 @@ FuckAD は、**重複を徹底的に排除し、整った形式で提供する�
 ### サブスクリプションリンク（プロキシツール）
 | プロキシツール | サブスクリプション URL |
 |----------------|---------------------------|
-| Shadowrocket | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash / Clash Meta | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
-| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
-| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| Shadowrocket & Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 謝辞
 以下のルール提供元の貢献と継続的なメンテナンスに深く感謝いたします：
@@ -118,10 +106,7 @@ FuckAD 는 **중복을 제거하고, 청결하며, 호환성이 높은 다중 �
 ### 구독 링크 (프록시 도구)
 | 프록시 도구 | 구독 URL |
 |-------------|-----------|
-| Shadowrocket | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
-| Clash / Clash Meta | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_clash.list` |
-| Quantumult X | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_qx.conf` |
-| Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_surge.conf` |
+| Shadowrocket & Surge | `https://raw.githubusercontent.com/Brandonjhd/FuckAD/main/fuck_ad_sr.conf` |
 
 ### 감사합니다
 다음 규칙 소스의 기여와 지속적인 유지보수에 감사드립니다：
