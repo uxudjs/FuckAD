@@ -22,7 +22,6 @@ Update at UTF-8 3:00
 特别感谢以下规则来源的贡献与长期维护：
 
 - https://adrules.top/  
-- https://whatshub.top/
 - https://anti-ad.net/
 
 当前合并规则总数：**152000**
@@ -41,7 +40,6 @@ Update at UTF-8 3:00
 特別感謝以下規則來源的支持與長期維護：
 
 - https://adrules.top/  
-- https://whatshub.top/
 - https://anti-ad.net/
 
 目前合併規則總數：**152000**
@@ -60,7 +58,6 @@ Update at UTF-8 3:00
 Special thanks to the following sources for their rule contributions and ongoing maintenance:
 
 - https://adrules.top/  
-- https://whatshub.top/
 - https://anti-ad.net/
 
 Current merged rule count: **152000**
@@ -79,7 +76,6 @@ Current merged rule count: **152000**
 以下のルール提供元の貢献と継続的なメンテナンスに深く感謝いたします：
 
 - https://adrules.top/  
-- https://whatshub.top/
 - https://anti-ad.net/
 
 現在の結合ルール総数：**152000**
@@ -98,7 +94,6 @@ Current merged rule count: **152000**
 다음 규칙 소스의 기여와 지속적인 유지보수에 감사드립니다：
 
 - https://adrules.top/  
-- https://whatshub.top/
 - https://anti-ad.net/
 
 현재 통합 규칙 총 개수: **152000**
