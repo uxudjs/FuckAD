@@ -27,7 +27,7 @@ Update at UTF-8 3:00
 - [https://adrules.top/](https://adrules.top/)  
 - [https://anti-ad.net/](https://anti-ad.net/)
 
-当前合并规则总数：**157644**
+当前合并规则总数：**152745**
 
 ---
 
@@ -48,7 +48,7 @@ Update at UTF-8 3:00
 - [https://adrules.top/](https://adrules.top/)  
 - [https://anti-ad.net/](https://anti-ad.net/)
 
-目前合併規則總數：**157644**
+目前合併規則總數：**152745**
 
 ---
 
@@ -69,7 +69,7 @@ Special thanks to the following sources for their rule contributions and ongoing
 - [https://adrules.top/](https://adrules.top/)  
 - [https://anti-ad.net/](https://anti-ad.net/)
 
-Current merged rule count: **157644**
+Current merged rule count: **152745**
 
 ---
 
@@ -90,7 +90,7 @@ Shadowrocket & Surge 広告ブロックルールセット（毎日更新、マ�
 - [https://adrules.top/](https://adrules.top/)  
 - [https://anti-ad.net/](https://anti-ad.net/)
 
-現在の結合ルール総数：**157644**
+現在の結合ルール総数：**152745**
 
 ---
 
@@ -111,7 +111,7 @@ Shadowrocket & Surge 광고 차단 규칙 모음 (매일 업데이트, 다중 �
 - [https://adrules.top/](https://adrules.top/)  
 - [https://anti-ad.net/](https://anti-ad.net/)
 
-현재 통합 규칙 총 개수: **157644**
+현재 통합 규칙 총 개수: **152745**
 
 ---
 
