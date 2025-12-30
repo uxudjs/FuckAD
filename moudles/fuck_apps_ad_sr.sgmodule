@@ -37,8 +37,8 @@ DOMAIN-KEYWORD,wlmonitor,REJECT
 DOMAIN-KEYWORD,zjtoolbar,REJECT
 
 # > YouTube
-DOMAIN-SUFFIX,googlevideo.com,REJECT
-DOMAIN,youtubei.googleapis.com,REJECT
+# DOMAIN-SUFFIX,googlevideo.com,REJECT
+# DOMAIN,youtubei.googleapis.com,REJECT
 
 # > 大师兄影视
 DOMAIN-SUFFIX,sigmob.cn,REJECT
@@ -64,11 +64,11 @@ DOMAIN-SUFFIX,iyes.youku.com,REJECT
 ^https?:\/\/amdc\.m\.taobao\.com - reject
 
 # > YouTube
-^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?&ctier=L(&.+?) $1$2 302
-^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
-^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
-^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
-^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext - reject
+# ^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?&ctier=L(&.+?) $1$2 302
+# ^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
+# ^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
+# ^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
+# ^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext - reject
 
 # > 大师兄影视
 ^http:\/\/[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){1,4}(:\d+)?\/.*?\/v\d\/(version|notice\?|top_notice\?|advert\?position=[^2]+) - reject
@@ -141,7 +141,7 @@ http-response-jq ^https?:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop.taobao.idle.ite
 
 [Script]
 # > YouTube
-YouTube-Response = type=http-response, pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch), requires-body=1, max-size=-1, binary-body-mode=1, script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js, argument="{\"lyricLang\":\"zh-Hans\",\"captionLang\":\"zh-Hans\",\"blockUpload\":true,\"blockImmersive\":true,\"debug\":false}"
+# YouTube-Response = type=http-response, pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch), requires-body=1, max-size=-1, binary-body-mode=1, script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js, argument="{\"lyricLang\":\"zh-Hans\",\"captionLang\":\"zh-Hans\",\"blockUpload\":true,\"blockImmersive\":true,\"debug\":false}"
 
 # > 微信公众号
 WeChat-Official-Ads = type=http-response, pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad, requires-body=1, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
